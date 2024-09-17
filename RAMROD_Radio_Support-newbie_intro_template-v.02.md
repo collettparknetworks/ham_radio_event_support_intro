@@ -19,6 +19,16 @@ Some key organizing and support folks are:
 - et al
 <...>
 
+## Table of Contents
+
+- [Broad description of support needs](#broad-description-of-support-needs)
+- [Radio Support](#radio-support)
+- [Types of bands and technology in use](#types-of-bands-and-technology-in-use)
+- [Common Radio Support Resources](#common-radio-support-resources)
+- [Supporting Documents and References](#supporting-documents-and-references)
+- [First Aid Resources](#first-aid-resources)
+- [Questions newbies might have](#questions-newbies-might-have)
+
 ## Broad description of support needs
 
 The event is supported by volunteer staff, over 300 in 2024 alone that oversee all aspects of the race.  
