@@ -4,9 +4,9 @@
 Template for new ham radio operators who might want to volunteer to support the RAMROD cycle race.
 
 This is a working draft prepared by
-- KJ7WTF
+- KJ6WTF
 - KE7NOR
-- K&RMZ
+- K7RMZ
 - K7XTN
 
 attempting to clarify "things we would have liked to have known before we started the volunteering for radio support path, and had to be explained to us". 
